@@ -1,5 +1,5 @@
 # LPI-Linux-Essential-010-160-Study-Resources
-![Image](https://github.com/CySAJohnseun/LPI-Linux-Essential-010-160-Study-Resources/blob/main/Image/400x400.png?raw=true)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1686323523477/eb60d499-2180-4a39-897f-a71bad380cae.png)
 
 LPI Linux Essential 010-160 Study Resources
 
