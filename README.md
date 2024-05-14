@@ -1,4 +1,5 @@
 # LPI-Linux-Essential-010-160-Study-Resources
+https://github.com/CySAJohnseun/LPI-Linux-Essential-010-160-Study-Resources/blob/main/Image/LPI_Essentials.png?raw=true
 LPI Linux Essential 010-160 Study Resources
 
 **Common Study Resources**
